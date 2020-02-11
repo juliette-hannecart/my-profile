@@ -1,0 +1,65 @@
+body {
+	background-color: rgb(210,210,210);
+}
+
+h1 {color: #da1985}
+
+
+h2{color:#da1985}
+
+h3{color:#da1985; font-size: 1.5em}
+
+body { font-family: 'Playfair Display', serif;
+}
+
+a {text-decoration: none;color:currentColor;}
+a:hover {color:#da1985;}
+
+    div {background:rgb(180,180,180); padding: 30px; padding left: 30px ;border-radius: 5px; box-shadow:0 15px 35px rgba(50,50,93,.1)}
+div{width: 450px; margin: 0 auto}
+div{border-top: 1px solid rgba(0, 0, 0, 0.1);
+box-shadow: 7px 7px 10px rgb(150,150,150);
+border-right: 2px #da1985;
+border-bottom: 1px #da1985;
+border-left: 2px #da1985;}
+
+#logo{
+width: 40px;
+}
+
+.centrage {border-radius: 50%;}
+.centrage{border: 7px solid grey; box-shadow: 0px 12px 12px rgba(0,0,0,0.9)}
+
+@media (max-width: 960px) {
+  .juliette {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .juliette {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  .juliette {
+    width: 300px;
+  }
+}
+
+.juliette {text-align: center;}
+
+
+.myproject{text-align: center;}
+
+.centrage {
+    margin-left: 100 auto;
+    margin-right: 100 auto }
+.centrage{text-align: center;}
+.listinline h4{list-style: none;
+
+
+
+
+
+
+
